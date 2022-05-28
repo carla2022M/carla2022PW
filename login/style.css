@@ -1,0 +1,66 @@
+ {
+  margen :  0 ;
+  relleno :  0 ;
+  tamaño de caja : cuadro de borde;
+}
+
+cuerpo {
+  familia tipográfica : arial;
+  imagen de fondo :  url ( 'bg.png' );
+}
+
+. formulario de inicio de sesión {
+  ancho :  400 píxeles ;
+  altura :  340 píxeles ;
+  fondo :  # 4e4d4d ;
+  margen : automático;
+  margen superior :  180 px ;
+  sombra de cuadro :  7 px  13 px  37 px  # 000 ;
+  relleno :  20 px  30 px ;
+  borde superior :  4 px sólido # 017bab ;
+  color : blanco;
+}
+
+. formulario de inicio de sesión  h5 {
+  margen :  0 ;
+  alineación de texto : centro;
+  altura :  40 píxeles ;
+  margen inferior :  30 px ;
+  borde inferior :  1 px sólido;
+  tamaño de fuente :  20 px ;
+}
+
+. controles {
+  ancho :  100 % ;
+  borde :  1 px sólido # 017bab ;
+  margin-bottom: 15px;
+  padding: 11px 10px;
+  background: #252323;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.buttons {
+  width: 100%;
+  height: 40px;
+  background: #017bab;
+  border: none;
+  color: white;
+  margin-bottom: 16px;
+}
+
+.form-login p{
+  height: 40px;
+  alineación de texto : centro;
+  borde inferior :  1 px sólido;
+}
+
+. formulario de inicio de sesión  a {
+  color : blanco;
+  decoración de texto : ninguno;
+  tamaño de fuente :  14 px ;
+}
+
+. formulario de inicio de sesión  a : hover {
+  decoración de texto : subrayado;
+}
